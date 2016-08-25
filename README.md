@@ -1,1 +1,1 @@
-nightbot-customapi
+boteco
